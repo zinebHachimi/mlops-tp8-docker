@@ -1,0 +1,3 @@
+*.tar 
+models/ 
+__pycache__/ 
